@@ -1,0 +1,11 @@
+projects = [
+    "TRANSAFRICA",
+    "АВАНТЮРИСТЫ",
+    "ЛИГА ГЕРОЕВ",
+    "ПЕРВЫЙ РУССКИЙ",
+    "ПРОЕКТ NOVA"
+]
+
+print("Список проектов компании:")
+for project in projects:
+    print("-", project)
